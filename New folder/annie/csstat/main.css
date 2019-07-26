@@ -1,0 +1,30 @@
+
+body{
+  background-color: red;
+}
+
+.content{
+  width: 1000px;
+  min-height: 2000px;
+  background-color: black;
+  padding: 20px;
+  margin :0 auto;
+  color:white;
+  overflow: auto;
+
+}
+
+.content.p{
+  text-align: justify;
+  line-height: 1.5em;
+  color:black;
+}
+
+.footer{
+  background-color: black;
+  width: 2000;
+  min-height: 20px;
+  padding: 20px;
+  color:white;
+  text-align: center;
+}
